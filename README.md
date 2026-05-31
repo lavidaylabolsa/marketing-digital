@@ -10,7 +10,7 @@ A high-conversion landing page for a performance marketing and AI automation age
 
 ## 🚀 Live Demo
 
-**https://lavidaylabolsa.github.io/nexus-digital-landing**
+**https://lavidaylabolsa.github.io/marketing-digital**
 
 ---
 
